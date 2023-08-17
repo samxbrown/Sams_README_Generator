@@ -1,9 +1,9 @@
-# title
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Kino Hunt
+  
 
 
   ## Description
-  description
+  This repository contains a codebase for a movie database website the provides information for movies based on genres. The goal is to optimize the site so that searching for movies is easy.
 
   ## Table of Contents 
 
@@ -11,8 +11,6 @@
 
 * [Usage](#usage)
 
-
-* [License](#license)
 
 
 * [Contribution](#contribution)
@@ -23,24 +21,22 @@
 
 
   ## Installation
-  instructions
+  To run and modify this project locally, follow these steps: 1. Clone the repository: git clone https://github.com/samxbrown/Kino-Hunt.git 2. Navigate to the project directory: cd Kino-Hunt 3. Open the project in your preferred code editor.
 
 
   ## Usage
-  usage
+  Once you have the project set up locally, you can: * Modify the HTML and CSS files to customize the website according to your needs. * Add additional content, images, and styles as required. * Test the website for accessibility by ensuring it meets the acceptance criteria mentioned above: * HTML * Bulma CSS * Javascript * APIs - (https://rapidapi.com/apidojo/api/imdb8, https://rapidapi.com/jakash1997/api/advanced-movie-search)       * VS Code
 
-  ## License
-
-This project is licensed under the MIT license.
+  
 
 
   ## Contribution
-  guidelines
+  We would like to credit all of the developers who worked on this code Sam Brown, Aleksey Nizhnikov, and Geon Kang as well as our instructor and TA
 
 
   ## Tests
-  test
+  N/A
 
   ## Questions
-  If you have any questions about the repo, open an issue or contact me directly at sam. 
-    You can find more of my work at [sam](https://github.com/sam
+  If you have any questions about the repo, open an issue or contact me directly at samcbrown@protonmail.com. 
+    You can find more of my work at [samxbrown](https://github.com/samxbrown
