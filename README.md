@@ -20,7 +20,9 @@ This repository contains a codebase for a professional README.md generator that 
   * Screencastify
 
 
-## Screenshot
+## Screen
+<img width="933" alt="Screenshot 2023-08-16 at 11 16 52 PM" src="https://github.com/samxbrown/Sams_README_Generator/assets/135293566/cc87af44-4fe2-485b-b61c-5ec613240aee">
+shot
 
 video link: https://drive.google.com/file/d/1ZvsbXii7Qw6TLJQ6C8oLHqcjLm-DkfUZ/view
 
